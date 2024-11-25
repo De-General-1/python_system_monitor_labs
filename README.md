@@ -1,6 +1,3 @@
-Certainly! Here's a simple README template that you can use for your project. It explains the purpose of the script, how to set up the environment, and how to run it, among other things.
-
----
 
 # Python System Monitoring Script
 
@@ -131,18 +128,3 @@ Email sent: 200
 
 This indicates that the email alert was successfully sent via Mailjet.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For any questions or feedback, feel free to contact:
-
----
-
-This template should give a good starting point for your README file. You can add more details as needed, such as a troubleshooting section or additional configuration instructions. Once you're happy with it, you can push this along with your script to GitHub!
